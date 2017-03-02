@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AudioRecorderAlice</string>
+    <string name="Record_button">Record</string>
+    <string name="Stop_button">Stop</string>
+</resources>
